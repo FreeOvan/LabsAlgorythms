@@ -1,5 +1,5 @@
 package LabFirst;
-
+//
 public class RotateList {
     public ListNode rotateRight(ListNode head, int k) {
         if (head == null) {
